@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1,America TV HD
+http://168.194.100.99:8000/play/a031
+#EXTINF:-1,AmericaTV
+http://168.194.100.99:8000/play/a03c
+#EXTINF:-1,CUL-Animal Planet
+http://168.194.100.99:8000/play/a019
+#EXTINF:-1,CUL-Discovery Channel
+http://168.194.100.99:8000/play/a018
+#EXTINF:-1,CUL-History Channel
+http://168.194.100.99:8000/play/a00c
+#EXTINF:-1,CUL-Nat Geo
+http://168.194.100.99:8000/play/a00b
+#EXTINF:-1,Claro Sports
+http://168.194.100.99:8000/play/a02a
+#EXTINF:-1,DEPOR-ESPN
+http://168.194.100.99:8000/play/a01e
+#EXTINF:-1,DEPOR-ESPN 2
+http://168.194.100.99:8000/play/a015
+#EXTINF:-1,DEPOR-ESPN 2 Latin
+http://168.194.100.99:8000/play/a01d
+#EXTINF:-1,DEPOR-ESPN 3
+http://168.194.100.99:8000/play/a028
+#EXTINF:-1,DEPOR-ESPN 4
+http://168.194.100.99:8000/play/a01v
+#EXTINF:-1,DEPOR-Fox Sports 2
+http://168.194.100.99:8000/play/a01k
+#EXTINF:-1,DEPOR-Fox Sports 3
+http://168.194.100.99:8000/play/a01l
+#EXTINF:-1,DEPOR-TyC
+http://168.194.100.99:8000/play/a01g
+#EXTINF:-1,GOLPERU HD
+http://168.194.100.99:8000/play/a02x
+#EXTINF:-1,HBO 2
+http://168.194.100.99:8000/play/a037
+#EXTINF:-1,HBO Family
+http://168.194.100.99:8000/play/a03a
+#EXTINF:-1,HBO Plus
+http://168.194.100.99:8000/play/a038
+#EXTINF:-1,HBO XTREME SD
+http://168.194.100.99:8000/play/a039
+#EXTINF:-1,INFA Cartoon Network ESPA
+http://168.194.100.99:8000/play/a029
+#EXTINF:-1,INFA-Discovery Kids
+http://168.194.100.99:8000/play/a00m
+#EXTINF:-1,INFA-Disney Channel
+http://168.194.100.99:8000/play/a017
+#EXTINF:-1,INFA-Disney Jr
+http://168.194.100.99:8000/play/a013
+#EXTINF:-1,INFA-Nick Jr
+http://168.194.100.99:8000/play/a026
+#EXTINF:-1,INFA-Nickelodeon
+http://168.194.100.99:8000/play/a009
+#EXTINF:-1,Latina
+http://168.194.100.99:8000/play/a03b
+#EXTINF:-1,Latina HD
+http://168.194.100.99:8000/play/a030
+#EXTINF:-1,Movistar Deportes HD
+http://168.194.100.99:8000/play/a036
+#EXTINF:-1,NACIONAL-ATV
+http://168.194.100.99:8000/play/a01u
+#EXTINF:-1,NACIONAL-AmericaTV
+http://168.194.100.99:8000/play/a01s
+#EXTINF:-1,NACIONAL-Latina
+http://168.194.100.99:8000/play/a01r
+#EXTINF:-1,NACIONAL-Panamericana TV
+http://168.194.100.99:8000/play/a01t
+#EXTINF:-1,NACIONAL-TV Peru
+http://168.194.100.99:8000/play/a01w
+#EXTINF:-1,NACIONAL-WILLAX
+http://168.194.100.99:8000/play/a01q
+#EXTINF:-1,NOTI-CNN Espanol
+http://168.194.100.99:8000/play/a00n
+#EXTINF:-1,PELIS - I-Sat
+http://168.194.100.99:8000/play/a02h
+#EXTINF:-1,PELIS-Cinecanal
+http://168.194.100.99:8000/play/a00d
+#EXTINF:-1,PELIS-Cinemax
+http://168.194.100.99:8000/play/a021
+#EXTINF:-1,PELIS-Claro Cinema
+http://168.194.100.99:8000/play/a02s
+#EXTINF:-1,PELIS-FX
+http://168.194.100.99:8000/play/a025
+#EXTINF:-1,PELIS-Space
+http://168.194.100.99:8000/play/a024
+#EXTINF:-1,PELIS-TNT
+http://168.194.100.99:8000/play/a00k
+#EXTINF:-1,RELIGIOSO-Enlace
+http://168.194.100.99:8000/play/a02j
+#EXTINF:-1,SERIES-AXN
+http://168.194.100.99:8000/play/a023
+#EXTINF:-1,SERIES-MTV
+http://168.194.100.99:8000/play/a02e
+#EXTINF:-1,SERIES-STAR CHANNEL
+http://168.194.100.99:8000/play/a00g
+#EXTINF:-1,SERIES-Sony
+http://168.194.100.99:8000/play/a022
+#EXTINF:-1,SERIES-SyFy
+http://168.194.100.99:8000/play/a02k
+#EXTINF:-1,SERIES-TBS
+http://168.194.100.99:8000/play/a01p
+#EXTINF:-1,SERIES-Universal
+http://168.194.100.99:8000/play/a00e
+#EXTINF:-1,SERIES-Warner
+http://168.194.100.99:8000/play/a01a
+#EXTINF:-1,VARIADOS-Canal Estrellas
+http://168.194.100.99:8000/play/a01j
+#EXTINF:-1,VARIADOS-RCN Novelas
+http://168.194.100.99:8000/play/a01n
+#EXTINF:-1,VARIADOS-Telemundo
+http://168.194.100.99:8000/play/a01m
